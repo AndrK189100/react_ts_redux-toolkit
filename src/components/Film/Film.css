@@ -1,0 +1,17 @@
+.button {
+	position: absolute;
+	right: 350px;
+}
+
+.button2 {
+	position: absolute;
+	top: 100px;
+	right: 350px;
+	
+}
+
+.button3 {
+	position: absolute;
+	top: 50px;
+	right: 350px;
+}
